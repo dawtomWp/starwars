@@ -30,6 +30,7 @@ const dodajPostac = (postac) => {
      console.log(postac);
      const karta = document.createElement("article");
      karta.classList.add("card");
+     console.log(12345);
 
      const nazwaPostaci = document.createElement("h3");
    
